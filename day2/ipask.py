@@ -2,9 +2,10 @@
 
 # code is to display sentence containing IP address and Mac Address
 
-ip = input('Please enter IP address:')
-print('Tell me and IP address:'+ str(ip))
+ip = input('Tell me your IP address:')
+print('so your IP address is:'+ ip)
 
-mac = input('Please enter MAC address:')
-print('Tell me a MAC address:'+ str(mac))
+mac = input('Tell me your MAC address:')
+print('so your MAC address is:'+ mac)
 
+print('Your IP address is ' + str(ip) + ' and your Mac address is ' + str(mac))
