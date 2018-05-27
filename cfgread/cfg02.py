@@ -1,6 +1,8 @@
 #!/usr/bin/env python3
 ## create file object in "r"ead mode
-configfile = open('vlanconfig.cfg', 'r')
+print('Please enter file name: ')
+filename = input()
+configfile = open('filename', 'r')
 
 ## display file to the screen - .read()
 configblog = configfile.read()
