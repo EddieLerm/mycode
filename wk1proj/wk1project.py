@@ -7,7 +7,7 @@ p = print
 
 p('\nIts 1955, your 18 and a highly valued future football college prospect')
 p('Your are the QB of your team, its the championship game with the score 14 to 17')
-p('your team coming up short, your team has the possesion of the ball on the 35 with 15 seconds left')
+p('your team coming up short, your team has possesion of the ball on the 35 with 15 seconds left')
 p('\n1.Its 5 and 3rd Your coach says to run slants for the quick pass and first down')
 p('2.Your recievers have been out running the defense all day you think you can go for the long pass \nand touhdown')
 p('3.Your RB is confident and says can get the first and more and is requesting the ball')

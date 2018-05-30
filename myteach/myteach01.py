@@ -1,5 +1,12 @@
 #!/usr/bin/env python3
 
-ipaddress = '3221228965'
+import ipaddress
 
-ipaddress.ip_address('3221228965')
+myipaddress ='192.168.0.1'
+
+ipv = ipaddress.ip_address(myipaddress)
+
+print(dir(ipv))
+
+if (ipv.is_private()): 
+    print("Its private")
